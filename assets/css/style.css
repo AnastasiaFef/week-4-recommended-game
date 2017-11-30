@@ -1,0 +1,17 @@
+img{
+	width:111px;
+}
+.jumbotron{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.col-md-4{
+	border: 1px solid black;
+	margin-bottom: 20px;
+}
+.center{
+	text-align: center;
+}
+body{
+	background: url("../images/ball-pit-1.jpg");
+}
